@@ -133,6 +133,8 @@ Please note that each additional compute capability significantly increases your
 - Do you wish to build TensorFlow with MPI support? [y/N]: N
 - Please specify optimization flags to use during compilation when bazel option "--config=opt" is specified [Default is -march=native]: 
 
+sudo pip3 install numpy
+
 **sudo bazel build --config=opt --config=cuda //tensorflow/tools/pip_package:build_pip_package --verbose_failures**
 
 INFO: Build completed successfully, 5984 total actions
