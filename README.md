@@ -120,7 +120,7 @@ git clean -xdf
 - Do you wish to build TensorFlow with GDR support? [y/N]: N
 - Do you wish to build TensorFlow with VERBS support? [y/N]: N
 - Do you wish to build TensorFlow with OpenCL SYCL support? [y/N]: N
-- Do you wish to build TensorFlow with CUDA support? [y/N]: N
+- Do you wish to build TensorFlow with CUDA support? [y/N]: Y
 - Please specify the CUDA SDK version you want to use, e.g. 7.0. [Leave empty to default to CUDA 9.0]: 
 - Please specify the location where CUDA 9.0 toolkit is installed. Refer to README.md for more details. [Default is /usr/local/cuda]: 
 - Please specify the cuDNN version you want to use. [Leave empty to default to cuDNN 7.0]: 
