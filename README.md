@@ -188,5 +188,3 @@ sudo pip3 install tensorflow-gpu==0.0
 ### if this saved you:
 
 ![Seahorse](https://images.pexels.com/photos/221420/pexels-photo-221420.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260)
-
-1KJ1SNVoMT9zXRJxrRC8y8awuxRfmUd3Vb
